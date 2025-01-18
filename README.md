@@ -1,7 +1,7 @@
 ![image](https://lms.skillfactory.ru/asset-v1:SkillFactory+DST-3.0+28FEB2021+type@asset+block@MATHML_pj6_1_1.png)
 
 # PROJECT-6.-Segmenting_customers_for_an_online_gift_store
-##  Практика в выполнении задач машинного обучения, направленную решение бизнес-задач в области маркетинга.
+##  Практика в выполнении задач машинного обучения, направленную на решение бизнес-задач в области маркетинга.
 
 ### Описание проекта
 
